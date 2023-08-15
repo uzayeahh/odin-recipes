@@ -16,4 +16,9 @@ img {
 .text {
     color: red;
     font-size: 24px;
+    background-color: lightskyblue;
+}
+
+div {
+    text-align: center;
 }
